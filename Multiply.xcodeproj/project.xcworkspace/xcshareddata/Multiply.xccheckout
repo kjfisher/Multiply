@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>73F29720-7CDE-4B96-99E1-E11B8C55766E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Multiply</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6B401C48-B635-4624-91B1-C2B0D19F9139</key>
+		<string>https://github.com/sapanbhuta/Multiply.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Multiply.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6B401C48-B635-4624-91B1-C2B0D19F9139</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sapanbhuta/Multiply.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6B401C48-B635-4624-91B1-C2B0D19F9139</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6B401C48-B635-4624-91B1-C2B0D19F9139</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Multiply</string>
+		</dict>
+	</array>
+</dict>
+</plist>
